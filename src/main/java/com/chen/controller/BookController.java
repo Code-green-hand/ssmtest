@@ -58,4 +58,6 @@ public class BookController {
         bookService.deleteBookById(id);
         return "redirect:/books/allbook";
     }
+
+    //git测试
 }
